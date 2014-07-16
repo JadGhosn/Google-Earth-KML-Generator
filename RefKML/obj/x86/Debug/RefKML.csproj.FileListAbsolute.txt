@@ -1,0 +1,16 @@
+D:\projects\RefKML_SourceCodev2.4\RefKML\bin\x86\Debug\RefKML.exe.config
+D:\projects\RefKML_SourceCodev2.4\RefKML\obj\x86\Debug\Interop.ADOX.dll
+D:\projects\RefKML_SourceCodev2.4\RefKML\obj\x86\Debug\RefKML.csproj.ResolveComReference.cache
+D:\projects\RefKML_SourceCodev2.4\RefKML\obj\x86\Debug\RefKML.Form1.resources
+D:\projects\RefKML_SourceCodev2.4\RefKML\obj\x86\Debug\RefKML.Properties.Resources.resources
+D:\projects\RefKML_SourceCodev2.4\RefKML\obj\x86\Debug\RefKML.csproj.GenerateResource.Cache
+D:\projects\RefKML_SourceCodev2.4\RefKML\bin\x86\Debug\RefKML.exe
+D:\projects\RefKML_SourceCodev2.4\RefKML\bin\x86\Debug\RefKML.pdb
+D:\projects\RefKML_SourceCodev2.4\RefKML\bin\x86\Debug\GeoCoding.dll
+D:\projects\RefKML_SourceCodev2.4\RefKML\bin\x86\Debug\GoogleMapsApi.dll
+D:\projects\RefKML_SourceCodev2.4\RefKML\bin\x86\Debug\GoogleMapsApi.pdb
+D:\projects\RefKML_SourceCodev2.4\RefKML\bin\x86\Debug\GoogleMapsApi.xml
+D:\projects\RefKML_SourceCodev2.4\RefKML\bin\x86\Debug\Interop.ADOX.dll
+D:\projects\RefKML_SourceCodev2.4\RefKML\obj\x86\Debug\RefKML.csprojResolveAssemblyReference.cache
+D:\projects\RefKML_SourceCodev2.4\RefKML\obj\x86\Debug\RefKML.exe
+D:\projects\RefKML_SourceCodev2.4\RefKML\obj\x86\Debug\RefKML.pdb
