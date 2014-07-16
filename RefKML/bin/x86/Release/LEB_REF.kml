@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <Style id="Jad">
+      <IconStyle>
+        <color>ff0055ff</color>
+        <scale>0.8</scale>
+        <Icon>
+          <href>http://data.unhcr.org/syrianrefugees/syria_map/kml_pop.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.6</scale>
+      </LabelStyle>
+      <PolyStyle>
+        <color>RED</color>
+        <outline>0</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>Batroun</name>
+      <styleUrl>#Jad</styleUrl>
+      <description>7/16/2014:</description>
+      <Point>
+        <coordinates>35.66429,34.24983</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bar Elias</name>
+      <styleUrl>#Jad</styleUrl>
+      <description>7/16/2014:</description>
+      <Point>
+        <coordinates>35.90195,33.84626</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tyre</name>
+      <styleUrl>#Jad</styleUrl>
+      <description>7/16/2014:</description>
+      <Point>
+        <coordinates>35.20328,33.27216</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
