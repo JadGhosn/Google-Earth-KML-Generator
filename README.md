@@ -12,3 +12,5 @@ This tool has to following features:
   *Icons
   *Labels
   *Popup description
+
+Tool was developed in a rush - sorry for the messy code, will try to fix it as soon as possible. Tool still does the job. 
